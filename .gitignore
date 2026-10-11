@@ -1,0 +1,19 @@
+# Sensitive files - NEVER upload these!
+log.txt
+*.log
+emails.csv
+
+# Attachments
+*.pdf
+*.docx
+*.jpg
+*.png
+
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+
+# VS Code
+.vscode/
